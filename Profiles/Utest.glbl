@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>Utest</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description>strona aplikacji Utest</description>
+      <initValue>'https://www.utest.com/'</initValue>
+      <name>URL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Logowanie do strony</description>
+      <initValue>'marek-faryniarz@wp.pl'</initValue>
+      <name>LoginID</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>hasło</description>
+      <initValue>'3XP46rflnSgplE3HgitAlw=='</initValue>
+      <name>pwd</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
