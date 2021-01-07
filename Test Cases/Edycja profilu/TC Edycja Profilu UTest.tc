@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Academy_Quiz</name>
+   <name>TC Edycja Profilu UTest</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>13b6e52c-2196-4989-93fc-8a527a12a25d</testCaseGuid>
